@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/CLionProjects/Gomoku/Evaluate.cpp
+Gomoku.h
+C:/CLionProjects/Gomoku/Gomoku.h
+
+C:/CLionProjects/Gomoku/Gomoku.cpp
+Gomoku.h
+C:/CLionProjects/Gomoku/Gomoku.h
+pisqpipe.h
+C:/CLionProjects/Gomoku/pisqpipe.h
+
+C:/CLionProjects/Gomoku/Gomoku.h
+vector
+-
+cmath
+-
+string
+-
+algorithm
+-
+fstream
+-
+
+C:/CLionProjects/Gomoku/example.cpp
+pisqpipe.h
+C:/CLionProjects/Gomoku/pisqpipe.h
+windows.h
+-
+Gomoku.h
+C:/CLionProjects/Gomoku/Gomoku.h
+windows.h
+-
+
+C:/CLionProjects/Gomoku/pisqpipe.h
+

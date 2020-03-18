@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/CLionProjects/Gomoku/Gomoku.h
+vector
+-
+unordered_map
+-
+cmath
+-
+string
+-
+algorithm
+-
+fstream
+-
+
+C:/CLionProjects/Gomoku/example.cpp
+pisqpipe.h
+C:/CLionProjects/Gomoku/pisqpipe.h
+windows.h
+-
+Gomoku.h
+C:/CLionProjects/Gomoku/Gomoku.h
+ctime
+-
+windows.h
+-
+
+C:/CLionProjects/Gomoku/pisqpipe.h
+
